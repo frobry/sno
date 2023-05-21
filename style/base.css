@@ -1,0 +1,356 @@
+@CHARSET "UTF-8";
+
+#bsize {
+	background-size: 105%;
+	background-attachment: fixed;
+	background-position: 0px;
+	margin-left: 30px;
+	margin-right: 5%;
+	overflow-x: hidden;
+	text-shadow: 0px 1px 4px black;
+}
+
+#logo
+
+img{
+	width: 77px;
+	height: 58px;
+	border-radius: 11px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	position: fixed;
+	top: 10px;
+	left: 32px;
+	margin-top: 90px;
+	background-color: ghostwhite;
+	width: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 53px;
+	padding-right: 52.5px;
+}
+
+#georges
+
+img{
+	width: 170px;
+	height: 240px;
+	margin-left: 230px;
+	margin-right: 10px;
+	margin-top: -215px;
+	background-color: rgb(200, 200, 200);
+	padding: 2px;
+}
+
+#guynemer1
+
+img{
+	display: inline-block;
+	width: 246px;
+	height: 179px;
+	margin-left: 230px;
+	margin-right: -200px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	background-color: rgb(255, 0, 0);
+	padding: 2px;
+}
+
+#somm {
+	margin-left: 200px;
+}
+
+#titre {
+	display: inline-block;
+	background-color: rgba(250, 250, 250,0.9);
+	margin-top: -100px;
+	margin-left: -40px;
+	position: fixed;
+	padding-top: 20px;
+	padding-right: 2000px;
+	padding-left: 40px;
+	padding-bottom: 18px;
+	font-family: arial;
+	color: rgb(0, 0, 0);
+	text-shadow: none;
+	text-shadow: 0px 0px 5px white;
+}
+
+#menu {
+	position: fixed;
+	top: 10px;
+	display: inline-block;
+	color: white;
+	margin-top: 170px;
+	margin-left: 2px;
+	margin-right: 0px;
+	background-color: rgb(230, 230, 230);
+	width: auto;
+	padding-top: 1px;
+	padding-bottom: 14.3px;
+	padding-left: 31px;
+	padding-right: 28px;
+	border-radius: 10px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+}
+
+#titlemenu {
+	display: inline-block;
+	color: white;
+	font-family: arial;
+	font-size: 25.5px;
+}
+
+#soustitres3 {
+	margin-top: 100px;
+	margin-left: 230px;
+	font-family: arial;
+	font-size: 20px;
+}
+
+#soustitres4 {
+	margin-top: 0px;
+	margin-left: 230px;
+	font-family: georgia;
+	font-size: 16px;
+}
+
+#soustitres5 {
+	margin-top: -10px;
+	margin-left: 230px;
+	font-family: arial;
+	font-size: 14px;
+}
+
+#soustitres6 {
+	margin-top: 24px;
+	margin-left: 230px;
+	font-family: arial;
+	font-size: 16px;
+}
+
+#pos6 {
+	margin-top: 40px;
+}
+
+#soustitres7 {
+	margin-top: -10px;
+	margin-left: 270px;
+	font-family: georgia;
+	font-size: 14px;
+}
+
+#pos7 {
+	margin-left: -40px;
+}
+
+#pos8 {
+	margin-top: -80px;
+}
+
+#pos9 {
+	margin-bottom: 25px;
+}
+
+#paragraphe {
+	margin-left: 230px;
+	font-family: georgia;
+	font-size: 14px;
+}
+
+#p1 {
+	color: white;
+	background-color: darkred;
+	border-radius: 5px;
+	margin-left: -25px;
+	padding-right: 89px;
+	padding-left: 25px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-right: -26px;
+}
+
+#pa {
+	color: black;
+	text-shadow: red 0px 0px 7px;
+}
+
+#p2 {
+	color: white;
+	background-color: darkred;
+	border-radius: 5px;
+	margin-left: -25px;
+	padding-right: 28px;
+	padding-left: 25px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-right: -27px;
+}
+
+#pb {
+	color: black;
+	text-shadow: red 0px 0px 7px;
+}
+
+#p3 {
+	color: white;
+	background-color: darkred;
+	border-radius: 5px;
+	margin-left: -25px;
+	padding-right: 63px;
+	padding-left: 25px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-right: -27px;
+}
+
+#pc {
+	color: black;
+	text-shadow: red 0px 0px 7px;
+}
+
+#p4 {
+	color: white;
+	background-color: darkred;
+	border-radius: 5px;
+	margin-left: -25px;
+	padding-right: 95px;
+	padding-left: 25px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-right: -25px;
+}
+
+#pd {
+	color: black;
+	text-shadow: red 0px 0px 7px;
+}
+
+#p5 {
+	color: white;
+	background-color: darkred;
+	border-radius: 5px;
+	margin-left: -25px;
+	padding-right: 21.5px;
+	padding-left: 25px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-right: -22.5px;
+}
+
+#pe {
+	color: black;
+	text-shadow: red 0px 0px 7px;
+}
+
+#tel {
+	display: inline-block;
+	background-color: rgb(0, 255, 20);
+	margin-left: 230px;
+	border-radius: 7px;
+	padding-right: 20px;
+	margin-right: 15px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-shadow: none;
+}
+
+#mail {
+	display: inline-block;
+	background-color: rgb(0, 210, 255);
+	border-radius: 7px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-shadow: none;
+}
+
+div.link:hover {
+	transform: scale(1.02);
+}
+
+div.link2:hover {
+	transform: scale(1.01);
+}
+
+img {
+	width: 15px;
+	height: 15px;
+	margin-right: 7px;
+	margin-bottom: -1.5px;
+}
+
+#portfolio {
+	margin-left: 230px;
+	display: inline-block;
+	color: white;
+	background-color: rgb(200, 255, 255);
+	border-radius: 7px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: rgb(255, 0, 0);
+	font-family: arial;
+	text-shadow: none;
+}
+
+#boutoncv {
+	margin-left: 230px;
+	display: inline-block;
+	color: white;
+	background-color: rgb(200, 255, 255);
+	border-radius: 7px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: arial;
+	text-shadow: none;
+}
+
+#bottompage {
+	position: fixed;
+	bottom: 10px;
+	left: 33px;
+	font-size: 12px;
+}
+
+
+#guynos
+
+img{
+	background-color: rgb(255, 255, 255);
+	background-attachment: fixed;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 40px;
+	height: 40px;
+	border-radius: 11px;
+	position: fixed;
+	top: 7px;
+	right: 20px;
+
+}
+
+#pdfdoc 
+
+img{
+	height: 455px;
+	width: 320px;
+	margin-left: 230px;
+	margin-right: -5px;
+}
+
+body{
+	display: block;
+	background-color: rgba(0, 0, 0, 1.0);
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+}
